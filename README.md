@@ -1,7 +1,7 @@
 # adder
 
 ## About
-As implied by the project name, this is a python script that uses python's standard GUI, Tkinter, to create an adder.
+This is a python script that uses python's standard GUI, Tkinter, to create an adder.
 
 ![adder1](https://dxaviud.github.io/images/adder1.PNG)  
 
