@@ -1,4 +1,4 @@
-#Simple adding program using tkinter gui
+# Simple adding program using tkinter gui
 
 from tkinter import Tk, Button, Label, Entry
 
@@ -61,4 +61,3 @@ class Adder:
 
 if __name__ == '__main__':
     Adder()
-
